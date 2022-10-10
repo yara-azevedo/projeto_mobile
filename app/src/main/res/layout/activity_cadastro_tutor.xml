@@ -82,7 +82,7 @@
             android:layout_marginTop="41dp"
             android:layout_marginBottom="107dp"
 
-            android:backgroundTint="@color/pink"
+            android:backgroundTint="#B01BCA"
             android:text="Cadastrar"
             android:textAllCaps="false"
             android:textColor="#F6F1F1"
