@@ -47,7 +47,7 @@
             tools:layout_editor_absoluteY="372dp" />
 
         <EditText
-            android:id="@+id/editTextTextPassword"
+            android:id="@+id/et_senha"
             android:layout_width="0dp"
             android:layout_height="40dp"
             android:layout_marginStart="1dp"
@@ -61,7 +61,7 @@
             tools:layout_editor_absoluteY="314dp" />
 
         <EditText
-            android:id="@+id/editTextTextEmailAddress"
+            android:id="@+id/et_senha2"
             android:layout_width="0dp"
             android:layout_height="40dp"
             android:layout_marginStart="1dp"
@@ -87,7 +87,7 @@
             tools:layout_editor_absoluteY="142dp" />
 
         <EditText
-            android:id="@+id/editTextTextPersonName2"
+            android:id="@+id/et_nome"
             android:layout_width="0dp"
             android:layout_height="40dp"
             android:layout_marginStart="1dp"
