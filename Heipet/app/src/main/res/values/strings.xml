@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Heipet</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_pet">Pets</string>
+    <string name="title_tutor">Tutor</string>
+
+    <string name="teste">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor nunc quam, ut finibus massa facilisis in. Nunc quis efficitur urna, commodo viverra dui. Integer mi arcu, egestas ac tincidunt at, dapibus id sem. Pellentesque sit amet aliquet justo. Fusce lobortis libero sodales libero placerat, sit amet tempus metus imperdiet. Aenean vel nisi blandit, vulputate arcu quis, tincidunt risus. Curabitur sit amet velit tempor, sollicitudin libero ac, vehicula justo. Curabitur eu mattis erat, quis lobortis purus. Nam sit amet porta nulla. Praesent dictum eros sed metus efficitur mattis. Pellentesque velit ligula, gravida vel est quis, imperdiet vulputate ante. Mauris ut rutrum libero. Aenean a viverra lorem. Fusce iaculis nibh quis sapien consequat efficitur.
+
+Etiam rutrum tincidunt neque consectetur hendrerit. Praesent sit amet egestas nibh, lacinia mattis erat. Etiam quam felis, placerat et lorem at, aliquet venenatis nibh. Integer massa lorem, vehicula non lorem non, egestas porttitor mauris. Morbi luctus tellus leo, vitae placerat eros efficitur in. In dictum ut lacus quis gravida. Mauris eu ex eros. Phasellus consequat dignissim egestas. Suspendisse potenti. Ut auctor dignissim ligula eu malesuada. Sed sed egestas urna, tincidunt sagittis purus. In hac habitasse platea dictumst. Vivamus iaculis et orci non sollicitudin. Duis eget vehicula justo, at finibus tortor. Mauris non rhoncus dolor.
+
+Praesent nec mollis est. Fusce eget varius dui. Pellentesque vitae sagittis lacus. Suspendisse urna neque, lacinia non finibus et, blandit at lorem. Donec sed gravida risus. Pellentesque sit amet tincidunt tellus, sed convallis enim. Nunc porttitor justo id urna rutrum hendrerit. In sed sagittis eros, at iaculis ex. Donec convallis augue ac lectus elementum placerat. Ut pellentesque nibh felis, at dictum sem consectetur eget. Curabitur sit amet ligula nec risus bibendum aliquet. Curabitur est lacus, malesuada vel malesuada sit amet, convallis in augue. Etiam suscipit laoreet iaculis.
+    </string>
+</resources>
