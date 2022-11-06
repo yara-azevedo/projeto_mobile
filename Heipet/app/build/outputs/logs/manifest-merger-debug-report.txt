@@ -1,0 +1,219 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:2:1-52:12
+MERGED from [com.android.databinding:viewbinding:7.3.1] C:\Users\yaraz\.gradle\caches\transforms-3\dc65e32c42a3bd2ae3b5eb3e5524712c\transformed\viewbinding-7.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\yaraz\.gradle\caches\transforms-3\a0ff3340122196c62dc7f7e74a22f7c5\transformed\constraint-layout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\42f4edc747b201f29fd0da7c1e593333\transformed\navigation-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\17fd30fb5298dcf09b36b4ab409d59af\transformed\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\6b4a2e82381d94828436df45404462f6\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\8361d90b21cbb2df51d1698d5ca97c77\transformed\navigation-fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\77fef9e674591950bcdb312dbcf401d3\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\ac9ec7360dd59905d566d105bd00bb81\transformed\navigation-runtime-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\92394c3fde5c706c027b6e09ea117781\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\5aeec0ee0f4983d71454c4fa64f6b4f2\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\1f55327d259b1a53e27e2de858f1de6b\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\d14206e61f3f10a68daccc3c7a4f79a3\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\67e5550fdbe3ad36e7c3709b75ac2660\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\yaraz\.gradle\caches\transforms-3\1d26854cbfc4ba9c692347e6f02899bc\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\yaraz\.gradle\caches\transforms-3\aec0ea4defabc9e0237f92ec01a32884\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\518870793757e62394c1086821a7b399\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\7e68902a705ee0f7e7c7d221b0e47f3b\transformed\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\06c3f5f58fc2d2ad3fe91b3abc026b70\transformed\navigation-common-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\b347593d9595d265dfbb324df0a545f4\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\b1633334360715cfe3a6f8adb06e849c\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\97582126fe9f45ba661fa4e5b5dbfed6\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\2bd562cca7eddc115e8530e7d3ccd302\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\bb3f4250360c2f77aa165cfa61af6976\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\bb32b8ade77ae353a938c45df3aceb33\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\445296b71f8d6c6657d19ffdc2d583ee\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\ecbd23666767c8ec76a81939f74c71e4\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\a95a216217e205c2e2b921236415893b\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\12f083f8d4760a47c7e9eb003d437d9d\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\yaraz\.gradle\caches\transforms-3\291a42fa73e3eeac6d62ced0509e36b2\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\yaraz\.gradle\caches\transforms-3\7be635eabbc7d2e0429ebb66408f60a2\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\yaraz\.gradle\caches\transforms-3\61a329c3819df3c319a9a99793e15050\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\c5a640de62758ff04f20d41ef3deebfa\transformed\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\3ca5b17ef0c773f4fdcc431071104b11\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\c9b8c7b124b2c93a0dd40d1a368a4dfc\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\f56a535c0e9929dbacc94f06df0ec975\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\adb8331a1be7854fc493e2a3386e6f5b\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:2:1-52:12
+	package
+		INJECTED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:2:1-52:12
+		INJECTED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:2:1-52:12
+		INJECTED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:2:1-52:12
+		INJECTED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:5:5-50:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\yaraz\.gradle\caches\transforms-3\a0ff3340122196c62dc7f7e74a22f7c5\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\yaraz\.gradle\caches\transforms-3\a0ff3340122196c62dc7f7e74a22f7c5\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\17fd30fb5298dcf09b36b4ab409d59af\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\17fd30fb5298dcf09b36b4ab409d59af\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\ecbd23666767c8ec76a81939f74c71e4\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\ecbd23666767c8ec76a81939f74c71e4\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\a95a216217e205c2e2b921236415893b\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\a95a216217e205c2e2b921236415893b\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\ecbd23666767c8ec76a81939f74c71e4\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:13:9-44
+	android:dataExtractionRules
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.heipet.heipet.MainActivity
+ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:label
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:18:13-56
+	android:exported
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:16:13-41
+meta-data#android.app.lib_name
+ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:19:13-21:36
+	android:value
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:21:17-33
+	android:name
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:20:17-52
+activity#com.heipet.heipet.CadastroActivity
+ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:23:9-29:20
+	android:exported
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:24:13-45
+activity#com.heipet.heipet.LoginActivity
+ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:31:13-42
+activity#com.heipet.heipet.SplashActivity
+ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:37:9-49:20
+	android:exported
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:38:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:43:27-74
+uses-sdk
+INJECTED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:viewbinding:7.3.1] C:\Users\yaraz\.gradle\caches\transforms-3\dc65e32c42a3bd2ae3b5eb3e5524712c\transformed\viewbinding-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.databinding:viewbinding:7.3.1] C:\Users\yaraz\.gradle\caches\transforms-3\dc65e32c42a3bd2ae3b5eb3e5524712c\transformed\viewbinding-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\yaraz\.gradle\caches\transforms-3\a0ff3340122196c62dc7f7e74a22f7c5\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\yaraz\.gradle\caches\transforms-3\a0ff3340122196c62dc7f7e74a22f7c5\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\42f4edc747b201f29fd0da7c1e593333\transformed\navigation-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\42f4edc747b201f29fd0da7c1e593333\transformed\navigation-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\17fd30fb5298dcf09b36b4ab409d59af\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\17fd30fb5298dcf09b36b4ab409d59af\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\6b4a2e82381d94828436df45404462f6\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\6b4a2e82381d94828436df45404462f6\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\8361d90b21cbb2df51d1698d5ca97c77\transformed\navigation-fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\8361d90b21cbb2df51d1698d5ca97c77\transformed\navigation-fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\77fef9e674591950bcdb312dbcf401d3\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\77fef9e674591950bcdb312dbcf401d3\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\ac9ec7360dd59905d566d105bd00bb81\transformed\navigation-runtime-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\ac9ec7360dd59905d566d105bd00bb81\transformed\navigation-runtime-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\92394c3fde5c706c027b6e09ea117781\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\92394c3fde5c706c027b6e09ea117781\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\5aeec0ee0f4983d71454c4fa64f6b4f2\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\5aeec0ee0f4983d71454c4fa64f6b4f2\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\1f55327d259b1a53e27e2de858f1de6b\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\1f55327d259b1a53e27e2de858f1de6b\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\d14206e61f3f10a68daccc3c7a4f79a3\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\d14206e61f3f10a68daccc3c7a4f79a3\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\67e5550fdbe3ad36e7c3709b75ac2660\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\67e5550fdbe3ad36e7c3709b75ac2660\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\yaraz\.gradle\caches\transforms-3\1d26854cbfc4ba9c692347e6f02899bc\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\yaraz\.gradle\caches\transforms-3\1d26854cbfc4ba9c692347e6f02899bc\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\yaraz\.gradle\caches\transforms-3\aec0ea4defabc9e0237f92ec01a32884\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\yaraz\.gradle\caches\transforms-3\aec0ea4defabc9e0237f92ec01a32884\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\518870793757e62394c1086821a7b399\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\518870793757e62394c1086821a7b399\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\7e68902a705ee0f7e7c7d221b0e47f3b\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\7e68902a705ee0f7e7c7d221b0e47f3b\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\06c3f5f58fc2d2ad3fe91b3abc026b70\transformed\navigation-common-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\06c3f5f58fc2d2ad3fe91b3abc026b70\transformed\navigation-common-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\b347593d9595d265dfbb324df0a545f4\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\b347593d9595d265dfbb324df0a545f4\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\b1633334360715cfe3a6f8adb06e849c\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\b1633334360715cfe3a6f8adb06e849c\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\97582126fe9f45ba661fa4e5b5dbfed6\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\97582126fe9f45ba661fa4e5b5dbfed6\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\2bd562cca7eddc115e8530e7d3ccd302\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\2bd562cca7eddc115e8530e7d3ccd302\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\bb3f4250360c2f77aa165cfa61af6976\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\bb3f4250360c2f77aa165cfa61af6976\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\bb32b8ade77ae353a938c45df3aceb33\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\bb32b8ade77ae353a938c45df3aceb33\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\445296b71f8d6c6657d19ffdc2d583ee\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\445296b71f8d6c6657d19ffdc2d583ee\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\ecbd23666767c8ec76a81939f74c71e4\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\ecbd23666767c8ec76a81939f74c71e4\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\a95a216217e205c2e2b921236415893b\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\a95a216217e205c2e2b921236415893b\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\12f083f8d4760a47c7e9eb003d437d9d\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\12f083f8d4760a47c7e9eb003d437d9d\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\yaraz\.gradle\caches\transforms-3\291a42fa73e3eeac6d62ced0509e36b2\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\yaraz\.gradle\caches\transforms-3\291a42fa73e3eeac6d62ced0509e36b2\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\yaraz\.gradle\caches\transforms-3\7be635eabbc7d2e0429ebb66408f60a2\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\yaraz\.gradle\caches\transforms-3\7be635eabbc7d2e0429ebb66408f60a2\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\yaraz\.gradle\caches\transforms-3\61a329c3819df3c319a9a99793e15050\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\yaraz\.gradle\caches\transforms-3\61a329c3819df3c319a9a99793e15050\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\c5a640de62758ff04f20d41ef3deebfa\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\c5a640de62758ff04f20d41ef3deebfa\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\3ca5b17ef0c773f4fdcc431071104b11\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\3ca5b17ef0c773f4fdcc431071104b11\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\c9b8c7b124b2c93a0dd40d1a368a4dfc\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\c9b8c7b124b2c93a0dd40d1a368a4dfc\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\f56a535c0e9929dbacc94f06df0ec975\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\f56a535c0e9929dbacc94f06df0ec975\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\adb8331a1be7854fc493e2a3386e6f5b\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\adb8331a1be7854fc493e2a3386e6f5b\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml

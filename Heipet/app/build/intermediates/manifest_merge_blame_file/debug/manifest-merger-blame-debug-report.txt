@@ -1,0 +1,103 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.heipet.heipet"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="25"
+8-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:5:5-50:19
+12        android:allowBackup="true"
+12-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+13-->[com.android.support:support-compat:28.0.0] C:\Users\yaraz\.gradle\caches\transforms-3\ecbd23666767c8ec76a81939f74c71e4\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:7:9-65
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:fullBackupContent="@xml/backup_rules"
+17-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:8:9-54
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:9:9-43
+19        android:label="@string/app_name"
+19-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:10:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:11:9-54
+21        android:supportsRtl="true"
+21-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:12:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.Heipet" >
+23-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:13:9-44
+24        <activity
+24-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:15:9-22:20
+25            android:name="com.heipet.heipet.MainActivity"
+25-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:16:13-41
+26            android:exported="false"
+26-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:17:13-37
+27            android:label="@string/title_activity_main" >
+27-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:18:13-56
+28            <meta-data
+28-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:19:13-21:36
+29                android:name="android.app.lib_name"
+29-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:20:17-52
+30                android:value="" />
+30-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:21:17-33
+31        </activity>
+32        <activity
+32-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:23:9-29:20
+33            android:name="com.heipet.heipet.CadastroActivity"
+33-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:24:13-45
+34            android:exported="false" >
+34-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:25:13-37
+35            <meta-data
+35-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:19:13-21:36
+36                android:name="android.app.lib_name"
+36-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:20:17-52
+37                android:value="" />
+37-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:21:17-33
+38        </activity>
+39        <activity
+39-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:30:9-36:20
+40            android:name="com.heipet.heipet.LoginActivity"
+40-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:31:13-42
+41            android:exported="false" >
+41-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:32:13-37
+42            <meta-data
+42-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:19:13-21:36
+43                android:name="android.app.lib_name"
+43-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:20:17-52
+44                android:value="" />
+44-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:21:17-33
+45        </activity>
+46        <activity
+46-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:37:9-49:20
+47            android:name="com.heipet.heipet.SplashActivity"
+47-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:38:13-43
+48            android:exported="true" >
+48-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:39:13-36
+49            <intent-filter>
+49-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:40:13-44:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:41:17-69
+50-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:41:25-66
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:43:17-77
+52-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:43:27-74
+53            </intent-filter>
+54
+55            <meta-data
+55-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:19:13-21:36
+56                android:name="android.app.lib_name"
+56-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:20:17-52
+57                android:value="" />
+57-->C:\Users\yaraz\Documents\GitHub\projeto_mobile\Heipet\app\src\main\AndroidManifest.xml:21:17-33
+58        </activity>
+59    </application>
+60
+61</manifest>
